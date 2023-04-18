@@ -1,5 +1,18 @@
 body {
-    color: blue;
+    color: rgb(46, 46, 73);
     background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
   }
-  
+  .image1{
+    width: 200px;
+  }
+  .image2{
+    width: 200px;
+  }
+  .image3{
+    width: 200px;
+  }
+  .image4{
+    width: 200px;
+  }
